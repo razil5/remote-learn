@@ -1,0 +1,20 @@
+{
+  "name": "remote-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+      "url": "git+https://github.com/razil5/remote-learn.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  },
+  "keywords": [],
+  "author": "razil5",
+  "license": "ISC"
+}
